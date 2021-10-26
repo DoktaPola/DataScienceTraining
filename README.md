@@ -1,6 +1,7 @@
 # DataScienceTraining
 
 **2-10 HW  - ML**
+**11,12 HW  - DL**
 
 * 2 --> Exploratory Data Analysis & Data Preparation & Dimensionality Reduction
 * 3 --> Basic Statistics
